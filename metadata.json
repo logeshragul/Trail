@@ -1,0 +1,7 @@
+{
+  "name": "MyAIWebApp",
+  "description": "A responsive AI-powered web application showcasing Chat, Vision, and Speech capabilities using the Gemini API. Created by M. Logesh Ragul.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
